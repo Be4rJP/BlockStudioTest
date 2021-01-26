@@ -1,0 +1,5 @@
+name: BlockStudioTest
+version: ${project.version}
+main: be4rjp.blockstudiotest.Main
+api-version: 1.13
+depend: [BlockStudio]

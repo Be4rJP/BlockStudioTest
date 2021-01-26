@@ -1,0 +1,8 @@
+movements:
+  windmill:
+    object-name: 'windmill-1'
+    location: 'world, 0, 0, 0'
+    direction: '0, 0, 1'
+    object-data: 'white-windmill'
+    tick-angle: 0.5
+    draw-distance: 40
